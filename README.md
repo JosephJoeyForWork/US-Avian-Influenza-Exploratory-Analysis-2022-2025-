@@ -18,7 +18,7 @@ With national attention surrounding Avian Influenza virus amid rising egg and po
 
 ### **Database Diagram**
 
-https://dbdiagram.io/d/689baf2b1d75ee360a4dab76
+<img width="599" height="419" alt="Screenshot 2025-08-15 141307" src="https://github.com/user-attachments/assets/57b05139-d498-4865-bf64-9a01a64f3720" />
 
 ### **Executive Summary**
 
@@ -64,6 +64,7 @@ It’s worth emphasizing that the seasonal **highs and lows are not consistent**
 
 ### **Dashboard**
 
+<img width="1432" height="799" alt="Screenshot 2025-08-15 141619" src="https://github.com/user-attachments/assets/95431be3-eb22-49a3-9af0-6bf87dbed80f" />
 https://public.tableau.com/views/AvianInfluenzaOutbreaksAcrossUSFeb2022-Mar2025/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### **Recommendations**
