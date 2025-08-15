@@ -36,11 +36,13 @@ Outbreaks were heavily concentrated in **Minnesota** (11% of total outbreaks), *
 
 The counties with the highest total outbreaks were **Mercer** (OH) with 47 outbreaks, **Lancaster** (PA) with 37, **Darke** (OH) with 24 , and **Merced** (CA) also with 24 .
 
-![image.png](attachment:1a94b04d-ffb4-4060-ad44-962ac93a6f79:image.png)
+<img width="824" height="412" alt="image" src="https://github.com/user-attachments/assets/d1b3083d-9bfc-4aaf-97a1-58e49df126d3" />
+
 
 The counties experiencing the most severe spread per outbreak were: **Sioux** (IA) with **5** outbreaks contaminating over **12m** birds, **Weld** (CO) with **17** outbreaks contaminating over **9.5m** birds, **Darke** (OH) with **23** outbreaks contaminating over **9m** birds, and **Merced** (CA) with **24** outbreaks contaminating over **8.7m** birds.
 
-![image.png](attachment:eca9bb09-4965-4918-8b7e-37a64a6ac746:image.png)
+<img width="1397" height="797" alt="image (1)" src="https://github.com/user-attachments/assets/76715511-c6f5-4bb2-b07e-3c863c3be7a6" />
+
 
 **Production Insights**
 
@@ -48,7 +50,8 @@ The counties experiencing the most severe spread per outbreak were: **Sioux** (I
 
 It’s important to note that a single outbreak can be attributed to multiple production varieties. Consequently, outbreaks and infected flock sizes in the visualizations may be attributed to more than one production category. This overlap makes it impossible to completely isolate data for production types with fewer outbreaks from those with higher outbreak volumes.
 
-![image.png](attachment:8769386d-9e85-4da1-a40f-35e849916b23:image.png)
+<img width="1418" height="799" alt="image (2)" src="https://github.com/user-attachments/assets/6738c8c6-40da-4765-bd5e-d9d54df7f76f" />
+
 
 **Seasonality**
 
@@ -56,7 +59,8 @@ The overall **trend** of outbreaks by year is **downward**. **2022** recorded th
 
 It’s worth emphasizing that the seasonal **highs and lows are not consistent** in duration and timing from year to year. On average, seasonal activity begins to **rise in October**, **peaks in December**, and starts **declining in May**; hitting its **lowest point** between **June and August**.
 
-![image.png](attachment:acb2edf6-d4e6-4e4f-a826-105c57a9aed4:image.png)
+<img width="1409" height="796" alt="image (3)" src="https://github.com/user-attachments/assets/9ebe6bb3-4ef3-4143-b9b7-45e26c39e3bb" />
+
 
 ### **Dashboard**
 
