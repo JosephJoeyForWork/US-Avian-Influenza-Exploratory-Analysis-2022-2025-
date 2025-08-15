@@ -65,7 +65,7 @@ It’s worth emphasizing that the seasonal **highs and lows are not consistent**
 ### **Dashboard**
 
 <img width="1432" height="799" alt="Screenshot 2025-08-15 141619" src="https://github.com/user-attachments/assets/95431be3-eb22-49a3-9af0-6bf87dbed80f" />
-https://public.tableau.com/views/AvianInfluenzaOutbreaksAcrossUSFeb2022-Mar2025/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[Dashboard](https://public.tableau.com/views/AvianInfluenzaOutbreaksAcrossUSFeb2022-Mar2025/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### **Recommendations**
 
