@@ -65,11 +65,12 @@ It’s worth emphasizing that the seasonal **highs and lows are not consistent**
 ### **Dashboard**
 
 <img width="1432" height="799" alt="Screenshot 2025-08-15 141619" src="https://github.com/user-attachments/assets/95431be3-eb22-49a3-9af0-6bf87dbed80f" />
-[Dashboard](https://public.tableau.com/views/AvianInfluenzaOutbreaksAcrossUSFeb2022-Mar2025/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Dashboard](https://public.tableau.com/views/AvianInfluenzaOutbreaksAcrossUSFeb2022-Mar2025/Dashboard?:language=en-US&:sid=&:redirect=auth&:displaycount=n&:origin=vizsharelink)
 
 ### **Recommendations**
 
-Attention should be focused on the counties of **Sioux** (IA), **Weld** (CO), **Darke** (OH), and **Merced** (CA). These regions exhibit an unusual pattern: **large flocks** being c**ontaminated** by relatively **few outbreak** **incidents**. To understand this anomaly, more research is needed into factors such as the effect of **wild bird migration**, **density of flocks** compared to other regions, and the **effectiveness** of local farm **oversight protocols**.
+Attention should be focused on the counties of **Sioux** (IA), **Weld** (CO), **Darke** (OH), and **Merced** (CA). These regions exhibit an unusual pattern: **large flocks** being **contaminated** by relatively **few outbreak** **incidents**. To understand this anomaly, more research is needed into factors such as the effect of **wild bird migration**, **density of flocks** compared to other regions, and the **effectiveness** of local farm **oversight protocols**.
 
 **Minnesota**, **California**, **South Dakota**, and **Ohio** should dedicate resources to study farms’ operations and practices, especially considering these regions have experienced **notably higher outbreak rates** than others. Understanding the conditions in these farms, and why they are disproportionately affected, will be critical in **creating** more effective **prevention** and **intervention** strategies.
 
